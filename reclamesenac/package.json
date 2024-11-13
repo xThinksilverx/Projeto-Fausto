@@ -1,0 +1,14 @@
+{
+    "name": "reclamesenac",
+    "version": "1.0.0",
+    "description": "Um site dedicado a realizar reclamações com o Senac",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Otavio, Caio, Kaio, Carlos e Paulo",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
